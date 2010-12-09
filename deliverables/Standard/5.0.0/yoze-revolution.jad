@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: yoze$2drevolution
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os
+MIDlet-Jar-Size: 153623
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1291870302
+MIDlet-Jar-URL: yoze-revolution.jar
+RIM-COD-URL: yoze$2drevolution.cod
+RIM-COD-SHA1: 1b a9 57 65 8a 05 11 63 97 04 79 c1 f1 c6 be 0d a2 45 8d 5a
+RIM-COD-Size: 49824
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: yoze-revolution
+MIDlet-Vendor: BlackBerry Developer
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
